@@ -1,6 +1,8 @@
 #!/bin/bash
-total 12
--rw-r--r-- 1 root root 54 Mar 30 11:10 0-current_working_directory
--rw-r--r-- 1 root root 37 Mar 30 11:11 1-listit
--rw-r--r-- 1 root root  5 Mar 30 11:15 2-bring_me_home
--rw-r--r-- 1 root root  0 Mar 30 11:16 3-listfiles
+total 20
+-rwxr-xr-x 1 root root  99 Mar 30 16:59 0-current_working_directory
+-rwxr-xr-x 1 root root 108 Mar 31 05:03 1-listit
+-rwxr-xr-x 1 root root  21 Mar 31 08:29 2-bring_me_home
+-rwxr-xr-x 1 root root   0 Mar 31 08:51 3-listfiles
+-rwxr-xr-x 1 root root 387 Mar 30 16:42 4-listmorefiles
+-rwxr-xr-x 1 root root 200 Mar 30 16:56 README.md
