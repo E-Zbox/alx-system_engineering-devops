@@ -1,16 +1,16 @@
 # 0x03. Shell, init files, variables and expansions
 
 ### Table of Contents
-- [Learning Objectives](learning-objectives)
-	- [General](general)
-	- [Shell Initialization Files](shell-initialization-files)
-	- [Variables](variables)
-	- [Expansions](expansions)
-	- [Shell Arithmetic](shell-arithmetic)
-- [Miscellaneous](miscellaneous)
-	- [ALIAS](the-alias-command)
-	- [HELP](the-help-command)
-- [More Information](more-information)
+- [Learning Objectives](#learning-objectives)
+	- [General](#general)
+	- [Shell Initialization Files](#shell-initialization-files)
+	- [Variables](#variables)
+	- [Expansions](#expansions)
+	- [Shell Arithmetic](#shell-arithmetic)
+- [Miscellaneous](#miscellaneous)
+	- [ALIAS](#the-alias-command)
+	- [HELP](#the-help-command)
+- [More Information](#more-information)
 
 
 ## Learning Objectives
