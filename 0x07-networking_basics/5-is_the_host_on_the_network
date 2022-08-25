@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # bash script that pings and IP address passed as an argument
 
 if [[ -n "$1" ]]
